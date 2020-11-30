@@ -1,1 +1,17 @@
 # Teste-vaga-PHP
+
+###PRIMEIRO COMMIT SUBIU COM A DOCAGEM EM DOCKER WINDOWS E DENTRO DO DOCKER AS SEGUINTES IMAGENS (ALÉM DAS ESPECIFICAS): 
+
+DOCKER
+nginx
+php
+composer
+mysql
+postgres
+redis
+phpmyadmin
+pgadmin
+maildev
+
+
+###PRIMEIROS PASSOS:
